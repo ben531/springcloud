@@ -5,3 +5,7 @@
 /springcloud-eureka-7002/target/
 /springcloud-eureka-7003/target/
 /springcloud-provider-dept-8001/target/
+/.idea
+/.settings
+/.project
+/springcloud.iml
